@@ -1,4 +1,5 @@
 {	
+	"description": "Boiler plate npm",
 	"author" : "Alex",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
