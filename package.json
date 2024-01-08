@@ -1,7 +1,7 @@
 {	
 	"author" : "Alex",
 	"name": "fcc-learn-npm-package-json",
-	"keywords": [ "descriptive", "related", "words" ],
+	"keywords": [ "descriptive", "related", "freecodecamp" ],
 	"description": "Boiler plate npm",
 	"license": "MIT",
 	"version": "1.2.0",
